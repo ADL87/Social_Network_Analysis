@@ -11,4 +11,4 @@ Ci-dessous les éléments à consulter:
 <code>wordcloud_text_tweets.py</code> </ul> 
 </li>
 <br>
-<li> Les données collectées sont disponibles dans le dossier nommé <code>database</code> du repository ( branche <code>main</code>). </li>
+<li> Les données collectées sont disponibles dans le dossier nommé <code>database</code> du repository (branche <code>main</code>). </li>
